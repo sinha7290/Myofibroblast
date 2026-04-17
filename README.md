@@ -1,4 +1,4 @@
-# 🧬 Stromal State Analysis in IBD using COMPASS
+# Stromal State Analysis in IBD using COMPASS
 
 This repository contains analysis workflows used to quantify and evaluate stromal myofibroblast states in inflammatory bowel disease (IBD).
 
