@@ -93,6 +93,20 @@ This framework enables biologically grounded patient stratification and hypothes
 
 ---
 
+## Requirements
+
+- Python ≥ 3.8  
+- pandas  
+- numpy  
+- scipy  
+- matplotlib  
+- seaborn  
+- scikit-learn  
+- statsmodels  
+- StepMiner (for threshold calculation, if not precomputed)
+
+---
+
 ## Contact
 
 Saptarshi Sinha  
