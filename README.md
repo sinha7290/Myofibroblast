@@ -19,7 +19,7 @@ These states define a biologically interpretable axis of stromal activation asso
 
 ### COMPASS (COMPosite Activity Scoring System)
 
-Gene signature activity is quantified using **COMPASS**, a deterministic, threshold-based scoring framework:
+Gene signature activity is quantified using **COMPASS**, a deterministic, threshold-based scoring framework: https://compass.precsn.com/
 
 Score = (expression − (threshold + 0.5)) / (3 × SD)
 
